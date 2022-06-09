@@ -7,6 +7,6 @@ I believe that information and knowledge should be free for everyone to access, 
 ## Contact Me
 If you would like to chat or hit me up for a coffee, find me on these platforms:
 
-<a ref="https://www.linkedin.com/in/josephthenara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/josephthenara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 [Email](josephthenara@outlook.com) | [LinkedIn](https://www.linkedin.com/in/josephthenara) | [ORCID](https://orcid.org/0000-0002-7584-0245)
