@@ -5,9 +5,11 @@ I believe that information and knowledge should be free for everyone to access, 
 
 ## Publication List
 ### Journal Articles
-| Year | Title | Publisher | Link |
-|------|-------|-----------|------|
-| 2022 | A study of the virtual reality cybersickness impacts and improvement strategy towards the overall undergraduate students’ virtual learning experience | ITSE Journal (Emerald Publishing) | [DOI](https://doi.org/10.1108/ITSE-10-2021-0193) |
+| Year | Title | Publisher | Keyword(s) | Link |
+|------|-------|-----------|------------|------|
+| 2022 | A study of the virtual reality cybersickness impacts and improvement strategy towards the overall undergraduate students’ virtual learning experience | ITSE Journal (Emerald Publishing) | igher education, Simulation, Experiential learning, Blended learning, Digital learning,
+Virtual and augment reality, V-ROOM, Virtual reality, Cybersickness, Motion sickness,
+Teaching and learning, Education technology, Pedagogy innovation | [DOI](https://doi.org/10.1108/ITSE-10-2021-0193) |
 
 ### Conference Papers
 
