@@ -19,7 +19,16 @@ I believe that information and knowledge should be free for everyone to access, 
 | 2021 | Understanding the Cybersickness Effects of Using Virtual Reality-based Classrooms for Undergraduate Students: A Preliminary Study | ICOIE 2021 | V-Room, virtual reality, cybersickness, motion sickness, teaching and learning, education technology | [Repo](https://github.com/josephthen3320/publication-repo/blob/68ace192db761870f778f00dabfa8d76e513397d/Conference%20Papers/ICOIE2021_Understanding%20the%20Cybersickness%20Effects%20of%20Using%20VR-based%20Classrooms%20for%20UG%20Students%20-%20A%20Preliminary%20Study.pdf) |
 |  |  |  |  |  |
 
+### Dissertation
+
+| Year | Title                      | Affiliation                                                  | Keyword(s)                                                   | Link                                                         |
+| ---- | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2022 | Mixed Reality in Education | B.Sc. Computer Science with Artificial Intelligence (University of Nottingham) | Mixed Reality; Education; Gamification; Virtual Reality; Training | [Repo](https://github.com/josephthen3320/publication-repo/blob/fc05a90cb46e02aac05c7afb71f69642c83167fc/Thesis-Dissertation/JT_dissertation_2022.pdf) |
+
+
+
 ## Contact Me
+
 If you would like to chat or hit me up for a coffee, find me on these platforms:
 
 <a href="mailto:josephthenara@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
