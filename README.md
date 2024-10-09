@@ -7,7 +7,7 @@ I believe that information and knowledge should be free for everyone to access, 
 ### Journal Articles
 | Year | Title | Publisher | Keyword(s) | Link |
 |------|-------|-----------|------------|------|
-| 2024 | Enhancing Higher Education through Student-Staff Collaboration: Case Studies from a Sino-Foreign Institution | IJMLO (Inderscience Publishers) | Immersive Mixed Reality (iMR); Students as Partners (SaP); Students as Change Agents (SACA); Engineering Education; Digital Pedagogy; Educational Technology | TBD |
+| 2024 | Enhancing Higher Education through Student-Staff Collaboration: Case Studies from a Sino-Foreign Institution | IJMLO (Inderscience Publishers) | Immersive Mixed Reality (iMR); Students as Partners (SaP); Students as Change Agents (SACA); Engineering Education; Digital Pedagogy; Educational Technology | [DOI](https://doi.org/10.1504/IJMLO.2025.10067033) |
 | 2022 | A study of the virtual reality cybersickness impacts and improvement strategy towards the overall undergraduate students’ virtual learning experience | ITSE Journal (Emerald Publishing) | Higher education, Simulation, Experiential learning, Blended learning, Digital learning, Virtual and augment reality, V-ROOM, Virtual reality, Cybersickness, Motion sickness, Teaching and learning, Education technology, Pedagogy innovation | [DOI](https://doi.org/10.1108/ITSE-10-2021-0193) - [Repo](https://github.com/josephthen3320/publication-repo/blob/9fefe05d8923d299f98dda91eaa8470f478c3dee/Journal%20Articles/10-1108_ITSE-10-2021-0193.pdf)|
 |  |  |  |  |  |
 
