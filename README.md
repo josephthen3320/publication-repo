@@ -6,14 +6,14 @@ I believe that information and knowledge should be free for everyone to access, 
 ## Publication List
 ### Journal Articles
 | Year | Title | Publisher | Keyword(s) | Link |
-|------|-------|-----------|------------|------|
+| ---- | ----- | --------- | ---------- | ---- |
 | 2024 | Enhancing higher education through student-staff collaboration: case studies from a Sino-foreign institution | IJMLO (Inderscience Publishers) | Immersive Mixed Reality (iMR); Students as Partners (SaP); Students as Change Agents (SACA); Engineering Education; Digital Pedagogy; Educational Technology | [DOI](https://doi.org/10.1504/IJMLO.2025.10067033) |
 | 2022 | A study of the virtual reality cybersickness impacts and improvement strategy towards the overall undergraduate students’ virtual learning experience | ITSE Journal (Emerald Publishing) | Higher education, Simulation, Experiential learning, Blended learning, Digital learning, Virtual and augment reality, V-ROOM, Virtual reality, Cybersickness, Motion sickness, Teaching and learning, Education technology, Pedagogy innovation | [DOI](https://doi.org/10.1108/ITSE-10-2021-0193) - [Repo](https://github.com/josephthen3320/publication-repo/blob/9fefe05d8923d299f98dda91eaa8470f478c3dee/Journal%20Articles/10-1108_ITSE-10-2021-0193.pdf)|
 
 
 ### Conference Papers
 | Year | Title | Conference | Keyword(s) | Link |
-|------|-------|------------|------------|------|
+| ---- | ----- | ---------- | ---------- | ---- |
 | 2025 | Origami as a Means to Assess and Understand Learning Styles | FICTA 2025 | Learning Methods, VARK, Sensor-based, EEG, Origami Workshops | [Repo](https://github.com/josephthen3320/publication-repo/blob/50ea66e6ae41626a1ebe962ccd6f8d59fab24690/Conference%20Papers/FICTA2025_Origami%20as%20a%20Means%20to%20Assess%20and%20Understand%20Learning%20Styles.pdf) |
 | 2025 | The Impact of Different Teaching Methods, Moodle Access Frequency, and (Mis)matching of Learning Strategies towards Students’ Academic Success in Higher Education | FICTA 2025 | Offline, online, and blended learning; VARK learning preferences/strategies; (mis)match of learning strategies | [Repo](https://github.com/josephthen3320/publication-repo/blob/50ea66e6ae41626a1ebe962ccd6f8d59fab24690/Conference%20Papers/FICTA2025_The%20Impact%20of%20Different%20Teaching%20Methods%2C%20Moodle%20Access%20Frequency%2C%20and%20(Mis)matching%20of%20Learning%20Strategies%20towards%20Students%E2%80%99%20Academic%20Success%20in%20Higher%20Education.pdf) |
 | 2023 | Fighting Fires with Mixed Reality: The Future of Fire Safety Training and Education | ICOIE 2023 | education; firefighting safety training, human-computer interaction, mixed reality | [Repo](https://github.com/josephthen3320/publication-repo/blob/62e6ff4523d7b119769417a43ffb5124a1657259/Conference%20Papers/ICOIE2023_Fighting%20Fires%20with%20Mixed%20Reality%20-%20The%20Future%20of%20Fire%20Safety%20Training%20and%20Education.pdf) |
